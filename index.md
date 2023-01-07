@@ -129,4 +129,4 @@ _Certificate Of Appreciation_, Techcon Organizer, KMS Group
 
 <h3 align="right">Last updated: January 2023</h3>
 
-<span align="center"><b><a href="https://hungtuan.mes">#DiscoverTuanNguyen</a></b></span>
+<span align="center"><b><a href="https://hungtuan.me">#DiscoverTuanNguyen</a></b></span>
