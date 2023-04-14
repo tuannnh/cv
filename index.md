@@ -59,7 +59,7 @@ I am seeking to face any data challenges or problems. Feel free to reach out to 
 
 ## Experience
 
-`06/2020 - Present`
+`2020 - 2023`
 _KMS Solutions | Data Engineer_  
 - Design logical data model based on business intelligence analysis requirements
 - Design and build ETL pipeline for centralizing/mastering data in the data warehouse
@@ -70,7 +70,7 @@ _KMS Solutions | Data Engineer_
 - Lead the Mixpanel Project - product analytics
 - Team size: 5-7 members
 
-`01/2019 - 06/2020`
+`2019 - 2020`
 _Freelance | Full Stack Developer_  
 - Design, implement and maintain the Football Booking System based on the customer's requirements  
 - Technical stack:
