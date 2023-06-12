@@ -45,7 +45,7 @@ I am seeking to face any data challenges or problems. Feel free to reach out to 
 
 _Data Engineering_
 
-- Extract data from various multiple data sources like: Remote object storage (S3), SFTP, relational databases, non-relational databases, Facebook Analytics, Google Analytics, social media contents, APIs
+- Extract data from various multiple data sources like: Remote Object Storage (Amazon S3), SFTP, relational databases, non-relational databases, Facebook Analytics, Google Analytics, social media contents, APIs
 - Process many types of data: transactional data, high volume data, user events, logs
 - Perform data transformation, masterizing data, data cleaning, data validation
 - Build data pipeline for Batch and Stream processing
@@ -185,6 +185,6 @@ _Certificate Of Appreciation_, Techcon Organizer, KMS Group
 - An English-based webinar to share how to discover why Product Analytics is essential to your business and how to take advantage of it to improve the customer journey
 - Organized on Dec 6th, 2022
 
-<h3 align="right">Last updated: January 2023</h3>
+<h3 align="right">Last updated: June 2023</h3>
 
 <span align="center"><b><a href="https://hungtuan.me">#DiscoverTuanNguyen</a></b></span>
