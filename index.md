@@ -43,12 +43,45 @@ I am seeking to face any data challenges or problems. Feel free to reach out to 
 
 ## Skills
 
-**Technical**
+_Data Engineering
+
+- Extract data from various multiple data sources like: Remote object storage (S3), SFTP, relational databases, non-relational databases, Facebook Analytics, Google Analytics, social media contents, APIs
+- Process many types of data: transactional data, high volume data, user events, logs
+- Perform data transformation, masterizing data, data cleaning, data validation
+- Build data pipeline for Batch and Stream processing
+- Schedule data pipeline jobs orchestration using GoodData, Apache Airflow
+- Design data model for data digestion
+
+_Data Analytics
+
+- Design data model for analytics using Star schema, Snowflake schema
+- Apply analytics queries to calculate business metrics
+- Create interactive reports and dashboards
+
+_Data Operations
+- Set up development, staging and production environment for data flows
+- Implement and integrate client single sign-on authentication and authorization, data mart provisioning
+- Config network rules, identity management on cloud
+- Monitor and mantain jobs
+- Apply automation trigger workflows
+
+_Project Management
+- Follow Agile and SCRUM software development process
+- Use versioning control to store and maintain source
+- Prepare technical and non-technical documentation, training material for knowledge transfering to client
+- Manage projects and tasks on JIRA. Track working progress and performance on Workfront
+
+### Technical
 
 - Programming languages: Javascript, Ruby, Python
-- CloverETL, build data process bricks, GoodData SDK
-- Data model design, SQL DDL/DML, Vertica, analytical query 
-- API integrations, git, bash, SSO, data governance 
+- Database: Vertica, PostgreSQL, BigQuery
+- Containerization: Docker
+- Bash: Shell script, CLI commands
+- Version control: Github
+- ETL Tools: Apache Airflow, Talend, GoodData
+- Streaming data: HDFS, Hadoop, Apache Spark, Apache Kafka
+- Cloud services: AWS (S3, EC2, IAM, VPC, Lambda)
+- BI Tools: PowerBI, Looker Studio, Streamlit
 
 **Others**
 
@@ -60,15 +93,30 @@ I am seeking to face any data challenges or problems. Feel free to reach out to 
 ## Experience
 
 `2020 - 2023`
-_KMS Solutions | Data Engineer_  
-- Design logical data model based on business intelligence analysis requirements
-- Design and build ETL pipeline for centralizing/mastering data in the data warehouse
-- Implement multiple types of connectors/downloaders/extractors to connect and collect data from various data sources
-- Build up automation tools to configure processes and perform API calls for data management
+_KMS Solutions | Data Engineer_ 
+
+**Project: GoodData's client**
+Design and build data solutions for GoodData's clients in various industries such as: Education, financial services, customer satisfication, retail, multimedia
+- Design logical data model based on business intelligence analysis requirements using star schema
+- Design and build ETL pipeline for centralizing/mastering data in the data warehouse using GoodDataSDK, GoodData Cloud Native
+- Implement multiple types of connectors/downloaders/extractors to connect and collect data from various data sources using Ruby, Python
+- Build up automation tools to configure processes and perform API calls for data management using shell script, programing languages
+- Config processes integrations with client's system on multiple cloud like SSO SAML, networking connections, data security in AWS, Azure, Google Cloud Platform
 - Consulting/training/mentoring data solutions for team members/clients with self-service operations
-- Take a leadership role in expanding new opportunities with partnerships and customers
-- Lead the Mixpanel Project - product analytics
-- Team size: 5-7 members
+- Support client's business critical operations on demands via JIRA tickets
+- Build reports, dashboards using Analytical Queries, MAQL
+
+**Project: Citigo**
+Support client on technical operations with Product Analytics using Mixplanel
+- Maintain and optimize data pipeline of user activities event data tracked from product/application to Mixpanel and Google BigQuery
+- Support building product analysis reports using Insights, Funnels, Retentions and Flows reporting
+
+**Project: VietCredit POC**
+Build data solution POC for VietCredit base on financial data. Target to have risk analysis, debt collection performance analysis
+- Build ETL pipeline to extract data from the client's Oracle database, centralize data in Vertica that hosted on Amazon EC2 Instance. Used Talend Studio for ETL jobs
+- Schedule cron and monitor jobs run in Linux Management Console server hosted on AWS EC2 using Shell scripts and Apache Airflow
+- Utilize SQL for data transformation and leverage In-database Machine Learning Functions to train models and make Risk predictions
+- Establish a connection to the database system and create dynamic reports and interactive dashboards for analyzing debt collection performance and gaining insights into customer background criteria
 
 `2019 - 2020`
 _Freelance | Full Stack Developer_  
@@ -97,6 +145,16 @@ _English Tutor_
 **FPT University**
 
 - B.Eng., Software Engineering
+
+## Certifications
+
+- **[AWS Fundamentals SpecializationAWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V76QLZVD2ZNX)**
+
+- **[Modern Application Development with Java on AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/X2KLVXPK9GTV)**
+
+- **[MixpanelPartner Certification](https://verify.skilljar.com/c/p5t24qwt74pq)**
+
+- **[Project Management Principles and PracticesProject Management Principles and Practices](https://www.coursera.org/account/accomplishments/specialization/certificate/Y63G6CJ3BT55)**
 
 ## Awards
 
