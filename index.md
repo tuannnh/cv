@@ -43,7 +43,7 @@ I am seeking to face any data challenges or problems. Feel free to reach out to 
 
 ## Skills
 
-_Data Engineering
+_Data Engineering_
 
 - Extract data from various multiple data sources like: Remote object storage (S3), SFTP, relational databases, non-relational databases, Facebook Analytics, Google Analytics, social media contents, APIs
 - Process many types of data: transactional data, high volume data, user events, logs
@@ -52,26 +52,26 @@ _Data Engineering
 - Schedule data pipeline jobs orchestration using GoodData, Apache Airflow
 - Design data model for data digestion
 
-_Data Analytics
+_Data Analytics_
 
 - Design data model for analytics using Star schema, Snowflake schema
 - Apply analytics queries to calculate business metrics
 - Create interactive reports and dashboards
 
-_Data Operations
+_Data Operations_
 - Set up development, staging and production environment for data flows
 - Implement and integrate client single sign-on authentication and authorization, data mart provisioning
 - Config network rules, identity management on cloud
 - Monitor and mantain jobs
 - Apply automation trigger workflows
 
-_Project Management
+_Project Management_
 - Follow Agile and SCRUM software development process
 - Use versioning control to store and maintain source
 - Prepare technical and non-technical documentation, training material for knowledge transfering to client
 - Manage projects and tasks on JIRA. Track working progress and performance on Workfront
 
-### Technical
+**Technical**
 
 - Programming languages: Javascript, Ruby, Python
 - Database: Vertica, PostgreSQL, BigQuery
@@ -95,7 +95,7 @@ _Project Management
 `2020 - 2023`
 _KMS Solutions | Data Engineer_ 
 
-**Project: GoodData's client**
+**Project: GoodData's client**  
 Design and build data solutions for GoodData's clients in various industries such as: Education, financial services, customer satisfication, retail, multimedia
 - Design logical data model based on business intelligence analysis requirements using star schema
 - Design and build ETL pipeline for centralizing/mastering data in the data warehouse using GoodDataSDK, GoodData Cloud Native
@@ -106,12 +106,12 @@ Design and build data solutions for GoodData's clients in various industries suc
 - Support client's business critical operations on demands via JIRA tickets
 - Build reports, dashboards using Analytical Queries, MAQL
 
-**Project: Citigo**
+**Project: Citigo**  
 Support client on technical operations with Product Analytics using Mixplanel
 - Maintain and optimize data pipeline of user activities event data tracked from product/application to Mixpanel and Google BigQuery
 - Support building product analysis reports using Insights, Funnels, Retentions and Flows reporting
 
-**Project: VietCredit POC**
+**Project: VietCredit POC**  
 Build data solution POC for VietCredit base on financial data. Target to have risk analysis, debt collection performance analysis
 - Build ETL pipeline to extract data from the client's Oracle database, centralize data in Vertica that hosted on Amazon EC2 Instance. Used Talend Studio for ETL jobs
 - Schedule cron and monitor jobs run in Linux Management Console server hosted on AWS EC2 using Shell scripts and Apache Airflow
@@ -148,13 +148,13 @@ _English Tutor_
 
 ## Certifications
 
-- **[AWS Fundamentals SpecializationAWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V76QLZVD2ZNX)**
+_[AWS Fundamentals SpecializationAWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V76QLZVD2ZNX)_
 
-- **[Modern Application Development with Java on AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/X2KLVXPK9GTV)**
+_[Modern Application Development with Java on AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/X2KLVXPK9GTV)_
 
-- **[MixpanelPartner Certification](https://verify.skilljar.com/c/p5t24qwt74pq)**
+_[MixpanelPartner Certification](https://verify.skilljar.com/c/p5t24qwt74pq)_
 
-- **[Project Management Principles and PracticesProject Management Principles and Practices](https://www.coursera.org/account/accomplishments/specialization/certificate/Y63G6CJ3BT55)**
+_[Project Management Principles and PracticesProject Management Principles and Practices](https://www.coursera.org/account/accomplishments/specialization/certificate/Y63G6CJ3BT55)_
 
 ## Awards
 
