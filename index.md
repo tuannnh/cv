@@ -106,13 +106,13 @@ Design and build data solutions for GoodData's clients in various industries suc
 - Support client's business critical operations on demands via JIRA tickets
 - Build reports, dashboards using Analytical Queries, MAQL
 
-**Project: Citigo**  
+**Project: F&B SAAS Client**  
 Support client on technical operations with Product Analytics using Mixplanel
 - Maintain and optimize data pipeline of user activities event data tracked from product/application to Mixpanel and Google BigQuery
 - Support building product analysis reports using Insights, Funnels, Retentions and Flows reporting
 
-**Project: VietCredit POC**  
-Build data solution POC for VietCredit base on financial data. Target to have risk analysis, debt collection performance analysis
+**Project: Financial & Banking Client**  
+Build data solution POC for a Financial client base on financial data. Target to have risk analysis, debt collection performance analysis
 - Build ETL pipeline to extract data from the client's Oracle database, centralize data in Vertica that hosted on Amazon EC2 Instance. Used Talend Studio for ETL jobs
 - Schedule cron and monitor jobs run in Linux Management Console server hosted on AWS EC2 using Shell scripts and Apache Airflow
 - Utilize SQL for data transformation and leverage In-database Machine Learning Functions to train models and make Risk predictions
