@@ -37,7 +37,7 @@ Easy-going and people supporting enthusiast -->
 
 ## Currently
 
-I am a Data Engineer with more than three years of industry experience. My primary responsibilities are helping build ETL pipelines, including modeling, collecting, processing, and provisioning data  
+I am a Data Engineer with more than 5 years of industry experience. My primary responsibilities are helping build ETL pipelines, including modeling, collecting, processing, and provisioning data  
 Apart from my daily activities, I also help other operational teams with making automation tools to enhance the business working performance  
 I am seeking to face any data challenges or problems. Feel free to reach out to me. I am glad to hear a ring from you
 
