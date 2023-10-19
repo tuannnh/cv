@@ -37,7 +37,7 @@ Easy-going and people supporting enthusiast -->
 
 ## Currently
 
-I am a Data Engineer with more than 5 years of industry experience. My primary responsibilities are helping build ETL pipelines, including modeling, collecting, processing, and provisioning data  
+I am a Data Engineer with more than 5 years in IT industry experience. My primary responsibilities are helping build ETL pipelines, including modeling, collecting, processing, and provisioning data  
 Apart from my daily activities, I also help other operational teams with making automation tools to enhance the business working performance  
 I am seeking to face any data challenges or problems. Feel free to reach out to me. I am glad to hear a ring from you
 
@@ -45,7 +45,7 @@ I am seeking to face any data challenges or problems. Feel free to reach out to 
 
 _Data Engineering_
 
-- Extract data from various multiple data sources like: Remote Object Storage (Amazon S3), SFTP, relational databases, non-relational databases, Facebook Analytics, Google Analytics, social media contents, APIs
+- Extract data from various multiple data sources like: Remote Object Storage (Amazon S3), SFTP, relational databases, non-relational databases, Facebook Analytics, Google Analytics, social media contents, APIs, etc...
 - Process many types of data: transactional data, high volume data, user events, logs
 - Perform data transformation, masterizing data, data cleaning, data validation
 - Build data pipeline for Batch and Stream processing
@@ -80,8 +80,8 @@ _Project Management_
 - Version control: Github
 - ETL Tools: Apache Airflow, Talend, GoodData
 - Streaming data: HDFS, Hadoop, Apache Spark, Apache Kafka
-- Cloud services: AWS (S3, EC2, IAM, VPC, Lambda)
-- BI Tools: PowerBI, Looker Studio, Streamlit
+- Cloud services: AWS (S3, EC2, IAM, VPC, Lambda), Azure (Active Directory, Function App, ServiceBus)
+- BI Tools: GoodData, PowerBI, Looker Studio
 
 **Others**
 
@@ -93,7 +93,7 @@ _Project Management_
 ## Experience
 
 `2020 - 2023`
-_KMS Solutions | Data Engineer_ 
+_KMS Solutions | Sr. Data Engineer_ 
 
 **Project: GoodData's client**  
 Design and build data solutions for GoodData's clients in various industries such as: Education, financial services, customer satisfication, retail, multimedia
