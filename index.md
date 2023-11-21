@@ -118,6 +118,13 @@ Build data solution POC for a Financial client base on financial data. Target to
 - Utilize SQL for data transformation and leverage In-database Machine Learning Functions to train models and make Risk predictions
 - Establish a connection to the database system and create dynamic reports and interactive dashboards for analyzing debt collection performance and gaining insights into customer background criteria
 
+**Project: Insurance Service Client**  
+Build an event-driven Python based Parametric Engine that can use weather and satellite data to evaluate claim check.
+- Use Azure Functions for deployment to maintain severless concepts
+- Utilize Azure Service Bus for message-queue communication between functional steps
+- Data store and retrieve from Azure Blob Storage 
+- Integrate with current microservices system
+
 `2019 - 2020`
 _Freelance | Full Stack Developer_  
 - Design, implement and maintain the Football Booking System based on the customer's requirements  
