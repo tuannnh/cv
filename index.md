@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Tuan Nguyen's CV
+title: Tuan_Nguyen_Resume
 ---
 
 # Tuan Nguyen  
