@@ -92,7 +92,7 @@ _Project Management_
 
 ## Experience
 
-`2020 - 2023`
+`2020 - Present`
 _KMS Solutions | Sr. Data Engineer_ 
 
 **Project: GoodData's client**  
@@ -119,11 +119,14 @@ Build data solution POC for a Financial client base on financial data. Target to
 - Establish a connection to the database system and create dynamic reports and interactive dashboards for analyzing debt collection performance and gaining insights into customer background criteria
 
 **Project: Insurance Service Client**  
-Build an event-driven Python based Parametric Engine that can use weather and satellite data to evaluate claim check.
-- Use Azure Functions for deployment to maintain severless concepts
+Build an event-driven Python based Parametric Engine that can use weather and satellite data to evaluate insurance claim check.
+- Use Azure Functions and Microservices for application deployment
+- Design and maintain application structure with best practice API design (OpenAPI)
+- Enable application to align with 12 factors methodlogy in microservices
+- Prepare unit tests, performance test
 - Utilize Azure Service Bus for message-queue communication between functional steps
-- Data store and retrieve from Azure Blob Storage 
-- Integrate with current microservices system
+- Data store and retrieve using Azure Blob Storage 
+- Integrate with current microservices system, CI/CD flows (Sonar cloud, dependabots,...)
 
 `2019 - 2020`
 _Freelance | Full Stack Developer_  
