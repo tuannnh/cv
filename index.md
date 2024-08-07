@@ -74,11 +74,11 @@ _Project Management_
 **Technical**
 
 - Programming languages: Javascript, Ruby, Python
-- Database: Vertica, PostgreSQL, BigQuery
+- Database: TiDB, Vertica, PostgreSQL, BigQuery
 - Containerization: Docker
 - Bash: Shell script, CLI commands
 - Version control: Github
-- ETL Tools: Apache Airflow, Talend, GoodData
+- ETL Tools: Apache Airflow, Talend, GoodData, Apache Nifi
 - Streaming data: HDFS, Hadoop, Apache Spark, Apache Kafka
 - Cloud services: AWS (S3, EC2, IAM, VPC, Lambda), Azure (Active Directory, Function App, ServiceBus)
 - BI Tools: GoodData, PowerBI, Looker Studio
@@ -117,6 +117,12 @@ Build data solution POC for a Financial client base on financial data. Target to
 - Schedule cron and monitor jobs run in Linux Management Console server hosted on AWS EC2 using Shell scripts and Apache Airflow
 - Utilize SQL for data transformation and leverage In-database Machine Learning Functions to train models and make Risk predictions
 - Establish a connection to the database system and create dynamic reports and interactive dashboards for analyzing debt collection performance and gaining insights into customer background criteria
+
+**Project: Banking Business/Services Client**  
+Build automated flows to digest data from multiple applications data/vendors sources to data warehouse, capture data changes, then return model for reporting and analytical purposes
+- Build ETL pipeline to digest data from banking services and application using Apache Nifi
+- Optimize flows for handling large size data files
+- Set up integration with SMS/Email providers to handle notification requests on data changes
 
 **Project: Insurance Service Client**  
 Build an event-driven Python based Parametric Engine that can use weather and satellite data to evaluate insurance claim check.
