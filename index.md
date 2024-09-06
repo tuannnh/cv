@@ -172,6 +172,8 @@ _[MixpanelPartner Certification](https://verify.skilljar.com/c/p5t24qwt74pq)_
 
 _[Project Management Principles and PracticesProject Management Principles and Practices](https://www.coursera.org/account/accomplishments/specialization/certificate/Y63G6CJ3BT55)_
 
+_[IBM Data Engineering Professional Certificates](https://coursera.org/share/af3f2be7ed42d1f98428c5d2f508c714)_
+
 ## Awards
 
 `2016`
