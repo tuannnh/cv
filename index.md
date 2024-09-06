@@ -30,16 +30,15 @@ Mobile/Chat: (+84)904035003
 ## Introduction
 
 <!-- Hello. I am Tuan, and I want to enjoy my own world   -->
-I have an extraordinary passion for discovering new things  
-I Love programming, cooking, and doing handicrafts  
+He has an extraordinary passion for discovering new things  
+He addicted to programming, cooking, and doing handicrafts  
 <!-- Responsibility and reliability come first  
 Easy-going and people supporting enthusiast -->
 
 ## Currently
 
-As a Data Engineer with more than 5 years in IT industry experience. My primary responsibilities are helping build ETL pipelines, including modeling, collecting, processing, and provisioning data  
-Apart from my daily activities, I also help other operational teams with making automation tools to enhance the business working performance  
-Seeking to face any challenges or problems. Feel free to reach out to me. I am glad to hear a ring from you
+As a Data Engineer with more than 5 years in IT industry experience. His primary responsibilities are helping build ETL pipelines, including modeling, collecting, processing, and provisioning data  
+Apart from his daily activities, He also help other operational teams with making automation tools to enhance the business working performance
 
 ## Skills
 
