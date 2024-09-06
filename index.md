@@ -164,15 +164,16 @@ _English Tutor_
 
 ## Certifications
 
+_[IBM Data Engineering Professional Certificates](https://coursera.org/share/af3f2be7ed42d1f98428c5d2f508c714)_
+
 _[AWS Fundamentals SpecializationAWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V76QLZVD2ZNX)_
 
 _[Modern Application Development with Java on AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/X2KLVXPK9GTV)_
 
-_[MixpanelPartner Certification](https://verify.skilljar.com/c/p5t24qwt74pq)_
+_[Mixpanel Partner Certification](https://verify.skilljar.com/c/p5t24qwt74pq)_
 
 _[Project Management Principles and PracticesProject Management Principles and Practices](https://www.coursera.org/account/accomplishments/specialization/certificate/Y63G6CJ3BT55)_
 
-_[IBM Data Engineering Professional Certificates](https://coursera.org/share/af3f2be7ed42d1f98428c5d2f508c714)_
 
 ## Awards
 
