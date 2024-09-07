@@ -167,7 +167,7 @@ _[IBM Data Engineering Professional Certificates](https://coursera.org/share/af3
 
 _[AWS Fundamentals SpecializationAWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V76QLZVD2ZNX)_
 
-_[Modern Application Development with Java on AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/X2KLVXPK9GTV)_
+_[Build a Data Warehouse in AWS](https://coursera.org/share/4eb6d36dab7767b017c30fbbfa6d8a86)_
 
 _[Mixpanel Partner Certification](https://verify.skilljar.com/c/p5t24qwt74pq)_
 
