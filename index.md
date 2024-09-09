@@ -79,7 +79,7 @@ _Project Management_
 - Version control: Github
 - ETL Tools: Apache Airflow, Talend, GoodData, Apache Nifi
 - Streaming data: HDFS, Hadoop, Apache Spark, Apache Kafka
-- Cloud services: AWS (S3, EC2, IAM, VPC, Lambda), Azure (Active Directory, Function App, ServiceBus)
+- Cloud services: AWS (S3, EC2, IAM, VPC, Lambda), Azure (Active Directory, Function App, ServiceBus, DataBricks, CloudStorage)
 - BI Tools: GoodData, PowerBI, Looker Studio
 
 **Others**
@@ -125,12 +125,13 @@ Build automated flows to digest data from multiple applications data/vendors sou
 
 **Project: Insurance Service Client**  
 Build an event-driven Python based Parametric Engine that can use weather and satellite data to evaluate insurance claim check.
-- Use Azure Functions and Microservices for application deployment
+- Azure Functions and Kubernectes for application deployment
 - Design and maintain application structure with best practice API design (OpenAPI)
 - Enable application to align with 12 factors methodlogy in microservices
 - Prepare unit tests, performance test
 - Utilize Azure Service Bus for message-queue communication between functional steps
-- Data store and retrieve using Azure Blob Storage 
+- Data store and retrieve using Azure Blob Storage
+- Employed pipeline using Azure DataBricks, Delta Lake
 - Integrate with current microservices system, CI/CD flows (Sonar cloud, dependabots,...)
 
 `2019 - 2020`
