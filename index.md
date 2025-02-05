@@ -5,7 +5,7 @@ title: Tuan_Nguyen_Resume
 
 # Tuan Nguyen  
 
-Discoverer \| Handicrafter \| Data Engineer  
+Discoverer \| Handicrafter \| Data Guru  
 Address: TanPhu, Ho Chi Minh  
 Mobile/Chat: (+84)904035003  
 
@@ -37,7 +37,7 @@ Easy-going and people supporting enthusiast -->
 
 ## Currently
 
-As a Data Engineer with more than 5 years in IT industry experience. His primary responsibilities are helping build ETL pipelines, including modeling, collecting, processing, and provisioning data  
+As a Senior Data Engineer with more than 5 years in IT industry experience. His primary responsibilities are helping build ETL pipelines, including modeling, collecting, processing, and provisioning data  
 Apart from his daily activities, He also help other operational teams with making automation tools to enhance the business working performance
 
 ## Skills
@@ -91,7 +91,17 @@ _Project Management_
 
 ## Experience
 
-`2020 - Present`
+`Oct 2024 - Present`
+_Knorex | Sr. Data Engineer_ 
+
+**Product: Digital Marketing Platform**  
+Maintain, optimize the data processing and reporting services for customer success
+- Design and optimize data model for high scalability
+- Develop new features with AI enablement for Report and Analysis service
+- Support DevOps on Cloud Migration
+
+
+`Jan 2020 - Sep 2024`
 _KMS Solutions | Sr. Data Engineer_ 
 
 **Project: GoodData's client**  
@@ -134,7 +144,7 @@ Build an event-driven Python based Parametric Engine that can use weather and sa
 - Employed pipeline using Azure DataBricks, Delta Lake
 - Integrate with current microservices system, CI/CD flows (Sonar cloud, dependabots,...)
 
-`2019 - 2020`
+`Jan 2019 - Feb 2020`
 _Freelance | Full Stack Developer_  
 - Design, implement and maintain the Football Booking System based on the customer's requirements  
 - Technical stack:
