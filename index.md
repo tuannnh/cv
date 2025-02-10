@@ -73,13 +73,13 @@ _Project Management_
 **Technical**
 
 - Programming languages: Javascript, Ruby, Python
-- Database: TiDB, Vertica, PostgreSQL, BigQuery
+- Database: TiDB, Vertica, PostgreSQL, BigQuery, AlloyDB
 - Containerization: Docker
 - Bash: Shell script, CLI commands
 - Version control: Github
 - ETL Tools: Apache Airflow, Talend, GoodData, Apache Nifi
 - Streaming data: HDFS, Hadoop, Apache Spark, Apache Kafka
-- Cloud services: AWS (S3, EC2, IAM, VPC, Lambda), Azure (Active Directory, Function App, ServiceBus, DataBricks, CloudStorage)
+- Cloud services: AWS (S3, EC2, IAM, VPC, Lambda, EKS), Azure (Active Directory, Function App, ServiceBus, DataBricks, CloudStorage), GCP (GKE) 
 - BI Tools: GoodData, PowerBI, Looker Studio
 
 **Others**
