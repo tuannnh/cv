@@ -214,6 +214,6 @@ _Certificate Of Appreciation_, Techcon Organizer, KMS Group
 - An English-based webinar to share how to discover why Product Analytics is essential to your business and how to take advantage of it to improve the customer journey
 - Organized on Dec 6th, 2022
 
-<h3 align="right">Last updated: Sep 2024</h3>
+<h3 align="right">Last updated: Feb 2025</h3>
 
 <!-- <span align="center"><b><a href="https://hungtuan.me">#DiscoverTuanNguyen</a></b></span>  -->
