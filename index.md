@@ -106,14 +106,25 @@ _KMS Solutions | Sr. Data Engineer_
 
 **Project: GoodData's client**  
 Design and build data solutions for GoodData's clients in various industries such as: Education, financial services, customer satisfication, retail, multimedia
-- Design logical data model based on business intelligence analysis requirements using star schema
+- Design logical data model based on business intelligence analysis requirements using star/snowflake schema
 - Design and build ETL pipeline for centralizing/mastering data in the data warehouse using GoodDataSDK, GoodData Cloud Native
 - Implement multiple types of connectors/downloaders/extractors to connect and collect data from various data sources using Ruby, Python
-- Build up automation tools to configure processes and perform API calls for data management using shell script, programing languages
-- Config processes integrations with client's system on multiple cloud like SSO SAML, networking connections, data security in AWS, Azure, Google Cloud Platform
+- Build up automation tools to configure processes and perform API calls for data management using shell script, programing languages 
+- Config processes integrations with client's system on multiple cloud like SSO SAML, networking connections, data security in AWS, Azure Platform
 - Consulting/training/mentoring data solutions for team members/clients with self-service operations
 - Support client's business critical operations on demands via JIRA tickets
 - Build reports, dashboards using Analytical Queries, MAQL
+- Technical stack:
+    * Priviledges/Permisson: AWS IAM, Azure Active Directory
+    * Data Lake: Amazon S3, Azure Glob Storage
+    * Data Warehouse: Amazon Redshift, Vertica, Amazon RDS
+    * Event-based trigger: AWS Lambda, Azure Functions
+    * Log Monitoring: Amazon CloudWatch, ELK
+    * Caching: Amazon ElastiCache, Redis
+    * Kubernetes: Amazon EKS, Azure AKS
+    * ETL: AWS Glue, Amazon Athena, Azure Data Factory
+    * Streaming: Apache Kafka
+
 
 **Project: F&B SAAS Client**  
 Support client on technical operations with Product Analytics using Mixplanel
