@@ -118,12 +118,13 @@ Design and build data solutions for GoodData's clients in various industries suc
     * Priviledges/Permisson: AWS IAM, Azure Active Directory
     * Data Lake: Amazon S3, Azure Glob Storage
     * Data Warehouse: Amazon Redshift, Vertica, Amazon RDS
+    * NoSQL: MongoDB, DynamoDB
     * Event-based trigger: AWS Lambda, Azure Functions
     * Log Monitoring: Amazon CloudWatch, ELK
     * Caching: Amazon ElastiCache, Redis
-    * Kubernetes: Amazon EKS, Azure AKS
+    * Microservices: Amazon EKS, Azure AKS
     * ETL: AWS Glue, Amazon Athena, Azure Data Factory
-    * Streaming: Apache Kafka
+    * Streaming/MQ: Apache Kafka
 
 
 **Project: F&B SAAS Client**  
