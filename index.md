@@ -128,7 +128,7 @@ Design and build data solutions for GoodData's clients in various industries suc
 
 
 **Project: F&B SAAS Client**  
-Support client on technical operations with Product Analytics using Mixplanel
+Support client on technical operations with Product Analytics using Mixpanel
 - Maintain and optimize data pipeline of user activities event data tracked from product/application to Mixpanel and Google BigQuery
 - Support building product analysis reports using Insights, Funnels, Retentions and Flows reporting
 
