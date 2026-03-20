@@ -37,50 +37,38 @@ Easy-going and people supporting enthusiast -->
 
 ## Currently
 
-As a Senior Data Engineer with more than 5 years in IT industry experience. His primary responsibilities are helping build ETL pipelines, including modeling, collecting, processing, and provisioning data  
-Apart from his daily activities, He also help other operational teams with making automation tools to enhance the business working performance
+As a Senior Data Engineer with more than 7 years in the IT industry experience. His primary responsibilities are designing, building, and operating end-to-end data solutions, including data modeling, data ingestion, transformation, orchestration, and provisioning curated datasets for reporting and analytics. He has delivered data platforms and automation across multiple domains such as digital marketing, product analytics, financial services, and insurance, working with both batch and event-driven architectures. 
+He is experienced in building cloud-native pipelines on AWS and Azure, applying Data Lake best practices (Raw → Trusted → Curated), and ensuring production reliability through monitoring, alerting, and operational excellence. Apart from his daily activities, he also supports stakeholders and cross-functional teams by creating automation tools, improving data quality and governance, and enabling self-service operations for non-technical users.  
 
 ## Skills
 
 _Data Engineering_
 
-- Extract data from various multiple data sources like: Remote Object Storage (Amazon S3), SFTP, relational databases, non-relational databases, Facebook Analytics, Google Analytics, social media contents, APIs, etc...
-- Process many types of data: transactional data, high volume data, user events, logs
-- Perform data transformation, masterizing data, data cleaning, data validation
-- Build data pipeline for Batch and Stream processing
-- Schedule data pipeline jobs orchestration using GoodData, Apache Airflow
-- Design data model for data digestion
+- Build end-to-end ETL/ELT pipelines (batch + event-driven) from ingestion to curated datasets
+- Data modeling for analytics (star/snowflake schema), data lake layering (Raw → Trusted → Curated)
+- Data transformation at scale (Spark), data cleansing/validation, dependency checks
+- Enable downstream consumption for BI/reporting and analytics use cases
 
-_Data Analytics_
+_Cloud & Orchestration_
 
-- Design data model for analytics using Star schema, Snowflake schema
-- Apply analytics queries to calculate business metrics
-- Create interactive reports and dashboards
-
-_Data Operations_
-- Set up development, staging and production environment for data flows
-- Implement and integrate client single sign-on authentication and authorization, data mart provisioning
-- Config network rules, identity management on cloud
-- Monitor and mantain jobs
-- Apply automation trigger workflows
-
-_Project Management_
-- Follow Agile and SCRUM software development process
-- Use versioning control to store and maintain source
-- Prepare technical and non-technical documentation, training material for knowledge transfering to client
-- Manage projects and tasks on JIRA. Track working progress and performance on Workfront
+- AWS: S3, Glue (Spark), Athena, Step Functions, Lambda, SQS, IAM/VPC, CloudWatch, SNS
+- Azure: Active Directory, Functions, Service Bus, DataBricks, Blob Storage
+- GCP: GKE, GCS, Pub/Sub
+- CI/Operations: monitoring, alerting, automation, incident support for production pipelines
 
 **Technical**
 
-- Programming languages: Javascript, Ruby, Python
-- Database: TiDB, Vertica, PostgreSQL, BigQuery, AlloyDB
-- Containerization: Docker
-- Bash: Shell script, CLI commands
-- Version control: Github
-- ETL Tools: Apache Airflow, Talend, GoodData, Apache Nifi
-- Streaming data: HDFS, Hadoop, Apache Spark, Apache Kafka
-- Cloud services: AWS (S3, EC2, IAM, VPC, Lambda, EKS), Azure (Active Directory, Function App, ServiceBus, DataBricks, CloudStorage), GCP (GKE) 
-- BI Tools: GoodData, PowerBI, Looker Studio
+- Programming languages: Python, Javascript, Ruby, C#, Java, Scala; Bash/Shell
+- SQL & Datastores: PostgreSQL, Vertica, TiDB, BigQuery, AlloyDB; NoSQL (MongoDB, DynamoDB)
+- ETL/Workflow: AWS Glue, Step Functions, Apache Airflow, Talend, Apache NiFi, GoodData
+- Compute/Streaming: Spark, Kafka, Hadoop/HDFS
+- Containerization & VCS: Docker, GitHub
+- BI: PowerBI, GoodData, Looker Studio
+
+**Others**
+
+- Agile/Scrum delivery, documentation, mentoring/knowledge transfer
+- Cross-team collaboration and stakeholder communication
 
 **Others**
 
@@ -91,7 +79,42 @@ _Project Management_
 
 ## Experience
 
-`Oct 2024 - Present`
+`May 2025 - Present`
+_FWD | Senior Data Engineer (Finance Cloud Team)_
+
+Builds and operates AWS-based Finance Data Platform to centralize corporate finance data into Finance Data Repository.
+
+**Actuarial Project (Prophet → Finance Data Repository)**
+
+- Built end-to-end ETL pipelines to ingest and process data from Prophet (actuarial platform engine) for Finance centralization
+- Applied Data Lake layering best practices for storage and consumption: Raw zone → Trusted zone → Curated zone → Downstream datasets
+- Implemented data processing using AWS Glue (Spark) with data stored in Amazon S3 and downstream query/export via Amazon Athena
+- Orchestrated pipelines using AWS Step Functions with event-driven integrations (SQS, Lambda)
+- Implemented monitoring and alerting with CloudWatch and SNS to improve observability and operational reliability
+
+**Investment Project**
+
+- Revamped legacy implementation from a vendor team to standardize the platform with the same best practices used in the actuarial pipelines
+- Built dependency checker to validate multiple upstream dependencies before pipeline execution
+- Built data validator to enforce data cleanliness and quality rules, reducing downstream errors
+
+**Auto Bank Reconciliation**
+
+- Contributed to building a Reconcile Engine to digest data from multiple sources (Oracle, bank statements, and supporting documents)
+- Implemented reconciliation processes based on predefined rules to produce curated datasets for analytics dashboards and downstream usage
+- Delivered automation outcomes:
+  - Reduced manual effort and saved multiple manpower hours
+  - Faster turnaround for changes and easier issue detection with validation + monitoring
+  - Collaborated with UI team to help non-technical users interact with the data repository (configurable triggers and easier monitoring)
+
+- Technical stack:
+    * Data Lake: Amazon S3
+    * ETL/Processing: AWS Glue (Spark)
+    * Query: Amazon Athena
+    * Orchestration/Integration: Step Functions, SQS, Lambda
+    * Monitoring/Alerting: CloudWatch, SNS
+
+`Oct 2024 - Apr 2025`
 _Knorex | Sr. Data Engineer_ 
 
 **Product: Digital Marketing Platform**  
