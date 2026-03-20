@@ -37,8 +37,10 @@ Easy-going and people supporting enthusiast -->
 
 ## Currently
 
-As a Senior Data Engineer with more than 7 years in the IT industry experience. His primary responsibilities are designing, building, and operating end-to-end data solutions, including data modeling, data ingestion, transformation, orchestration, and provisioning curated datasets for reporting and analytics. He has delivered data platforms and automation across multiple domains such as digital marketing, product analytics, financial services, and insurance, working with both batch and event-driven architectures. 
-He is experienced in building cloud-native pipelines on AWS and Azure, applying Data Lake best practices (Raw → Trusted → Curated), and ensuring production reliability through monitoring, alerting, and operational excellence. Apart from his daily activities, he also supports stakeholders and cross-functional teams by creating automation tools, improving data quality and governance, and enabling self-service operations for non-technical users.  
+As a Senior Data Engineer with more than 7 years in the IT industry experience. His primary responsibilities are designing, building, and operating end-to-end data solutions, including data modeling, data ingestion, transformation, orchestration, and provisioning curated datasets for reporting and analytics.
+He has delivered data platforms and automation across multiple domains such as digital marketing, product analytics, financial services, and insurance, working with both batch and event-driven architectures. 
+He is experienced in building cloud-native pipelines on AWS and Azure, applying Data Lake best practices, and ensuring production reliability through monitoring, alerting, and operational excellence. 
+Apart from his daily activities, he also supports stakeholders and cross-functional teams by creating automation tools, improving data quality and governance, and enabling self-service operations for non-technical users.  
 
 ## Skills
 
