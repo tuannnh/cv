@@ -38,8 +38,11 @@ Easy-going and people supporting enthusiast -->
 ## Currently
 
 As a Senior Data Engineer with more than 7 years in the IT industry experience. His primary responsibilities are designing, building, and operating end-to-end data solutions, including data modeling, data ingestion, transformation, orchestration, and provisioning curated datasets for reporting and analytics.
+
 He has delivered data platforms and automation across multiple domains such as digital marketing, product analytics, financial services, and insurance, working with both batch and event-driven architectures. 
+
 He is experienced in building cloud-native pipelines on AWS and Azure, applying Data Lake best practices, and ensuring production reliability through monitoring, alerting, and operational excellence. 
+
 Apart from his daily activities, he also supports stakeholders and cross-functional teams by creating automation tools, improving data quality and governance, and enabling self-service operations for non-technical users.  
 
 ## Skills
@@ -86,7 +89,7 @@ _FWD | Senior Data Engineer (Finance Cloud Team)_
 
 Builds and operates AWS-based Finance Data Platform to centralize corporate finance data into Finance Data Repository.
 
-**Actuarial Project (Prophet → Finance Data Repository)**
+**Project: Actuarial (Prophet → Finance Data Repository)**
 
 - Built end-to-end ETL pipelines to ingest and process data from Prophet (actuarial platform engine) for Finance centralization
 - Applied Data Lake layering best practices for storage and consumption: Raw zone → Trusted zone → Curated zone → Downstream datasets
@@ -94,13 +97,13 @@ Builds and operates AWS-based Finance Data Platform to centralize corporate fina
 - Orchestrated pipelines using AWS Step Functions with event-driven integrations (SQS, Lambda)
 - Implemented monitoring and alerting with CloudWatch and SNS to improve observability and operational reliability
 
-**Investment Project**
+**Project: Investment**
 
 - Revamped legacy implementation from a vendor team to standardize the platform with the same best practices used in the actuarial pipelines
 - Built dependency checker to validate multiple upstream dependencies before pipeline execution
 - Built data validator to enforce data cleanliness and quality rules, reducing downstream errors
 
-**Auto Bank Reconciliation**
+**Project: Auto Bank Reconciliation**
 
 - Contributed to building a Reconcile Engine to digest data from multiple sources (Oracle, bank statements, and supporting documents)
 - Implemented reconciliation processes based on predefined rules to produce curated datasets for analytics dashboards and downstream usage
