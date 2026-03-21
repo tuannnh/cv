@@ -216,7 +216,7 @@ _English Tutor_
 
 _[IBM Data Engineering Professional Certificates](https://coursera.org/share/af3f2be7ed42d1f98428c5d2f508c714)_
 
-_[AWS Fundamentals SpecializationAWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V76QLZVD2ZNX)_
+_[AWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V76QLZVD2ZNX)_
 
 _[Build a Data Warehouse in AWS](https://coursera.org/share/4eb6d36dab7767b017c30fbbfa6d8a86)_
 
